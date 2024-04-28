@@ -1,4 +1,4 @@
-package C4LinkedList.P1ReverseLinkedList;
+package Practice.C4LinkedList.P1ReverseLinkedList;
 
 public class Solution {
 
