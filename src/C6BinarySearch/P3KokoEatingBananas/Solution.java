@@ -5,12 +5,12 @@ import java.util.Arrays;
 public class Solution {
 
     public static void main(String[] args) {
-        // int[] piles = new int[]{3,6,7,11};
-        // int h = 8;
+        int[] piles = new int[]{3,6,7,11};
+        int h = 8;
         // int[] piles = new int[]{30,11,23,4,20};
         // int h = 5;
-        int[] piles = new int[]{30,11,23,4,20};
-        int h = 6;
+        // int[] piles = new int[]{30,11,23,4,20};
+        // int h = 6;
         int result = minEatingSpeed(piles, h);
         System.out.println(result);
     }
